@@ -1,0 +1,11 @@
+key,group,holdout,pa_deg,fl_mm,mt_mm,n_fasc
+apo/IMG_00001,apo_1,False,,,22.13680954387843,0
+apo/image_0002,apo_2,True,,,18.271725241057506,0
+apo/image_0003,apo_3,False,,,19.450569610985703,0
+apo/image_0004,apo_4,False,2.0471073670114435,124.31709166949456,22.35799559344901,1
+apo/image_0005,apo_5,False,,,22.300033171661408,0
+fasc/IMG_00001,fasc_1,False,,,,0
+fasc/image_0002,fasc_2,True,,,,0
+fasc/image_0003,fasc_3,False,,,,0
+fasc/image_0004,fasc_4,False,,,,0
+fasc/image_0005,fasc_5,False,,,,0

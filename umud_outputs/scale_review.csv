@@ -1,0 +1,16 @@
+name,set,W,H,fx,fy,fw,fh,depth_text,mm_per_px,scale_source
+IMG_00001.tif,apo,1200,800,190,87,819,643,,0.07,global_median
+image_0002.tif,apo,1200,800,190,87,819,643,,0.07,global_median
+image_0003.tif,apo,1200,800,191,87,818,643,,0.07,global_median
+image_0004.tif,apo,1200,800,139,87,921,643,,0.07,global_median
+image_0005.tif,apo,1200,800,190,87,820,643,,0.07,global_median
+IMG_00001.tif,fasc,1200,800,233,58,731,742,,0.07,global_median
+image_0002.tif,fasc,1200,800,233,58,731,742,,0.07,global_median
+image_0003.tif,fasc,1200,800,233,58,731,742,,0.07,global_median
+image_0004.tif,fasc,1200,800,233,58,731,742,,0.07,global_median
+image_0005.tif,fasc,1200,800,233,58,731,742,,0.07,global_median
+IMG_00001.tif,test,1200,800,211,87,778,610,,0.07,global_median
+IMG_00002.tif,test,1200,800,163,87,874,610,,0.07,global_median
+IMG_00003.tif,test,1200,800,211,87,778,610,,0.07,global_median
+IMG_00004.tif,test,1200,800,211,87,778,610,,0.07,global_median
+IMG_00005.tif,test,1200,800,308,87,584,610,,0.07,global_median
